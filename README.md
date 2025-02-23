@@ -3,7 +3,7 @@
 
 Welcome to **Project Blaze** Launcher – the official launcher for Project Blaze!
 
-
+![Project Blaze Logo](https://i.postimg.cc/L5gq9KcH/IMG-4417.webp)
 ## Developers
 
 - @whiterose225
