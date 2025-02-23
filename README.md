@@ -15,8 +15,9 @@ Welcome to **Project Blaze** Launcher – the official launcher for Project Blaz
 To install Project Blaze, follow these steps:
 
 
-  - Click <code> and click on the  **Download ZIP** 
-  - Extract the contents of the ZIP file.
+  - Visit the **[Releases](https://github.com/sg0hann/Project-Blaze-Launcher/releases/tag/v.1.0.0)** page and download the launcher.
+  - Alternatively, click **[HERE](https://github.com/sg0hann/Project-Blaze-Launcher/archive/refs/tags/v.1.0.0.zip)**  to directly download the launcher ZIP file.
+  - Extract the contents of the **ZIP** file.
   - Run the launcher and you're good to go!
 
     
